@@ -69,3 +69,8 @@ This dashboard is intended for use by business executives, analysts, and strateg
 - **Strategic Planning:** Use insights from the dashboard to inform annual planning and market expansion strategies.
 - **Customer Relationship Management:** Identify key customers and tailor engagement strategies to maximize revenue.
 - **Market Research:** Analyze demand by region to explore new markets or optimize existing ones.
+
+## Author
+
+Soniya D
+
